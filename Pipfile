@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+pymupdf = "*"
+streamlit = "*"
+openai = "0.28"
+nltk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
